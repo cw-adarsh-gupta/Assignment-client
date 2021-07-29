@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USERMASTER\\Desktop\\AddNum\\GrpcGreeter\\GrpcGreeter.csproj": {}
+    "C:\\Users\\GET IT RENT\\Desktop\\AddNum\\grpcgreeter\\GrpcGreeter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USERMASTER\\Desktop\\AddNum\\GrpcGreeter\\GrpcGreeter.csproj": {
+    "C:\\Users\\GET IT RENT\\Desktop\\AddNum\\grpcgreeter\\GrpcGreeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USERMASTER\\Desktop\\AddNum\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectUniqueName": "C:\\Users\\GET IT RENT\\Desktop\\AddNum\\grpcgreeter\\GrpcGreeter.csproj",
         "projectName": "GrpcGreeter",
-        "projectPath": "C:\\Users\\USERMASTER\\Desktop\\AddNum\\GrpcGreeter\\GrpcGreeter.csproj",
-        "packagesPath": "C:\\Users\\USERMASTER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USERMASTER\\Desktop\\AddNum\\GrpcGreeter\\obj\\",
+        "projectPath": "C:\\Users\\GET IT RENT\\Desktop\\AddNum\\grpcgreeter\\GrpcGreeter.csproj",
+        "packagesPath": "C:\\Users\\GET IT RENT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GET IT RENT\\Desktop\\AddNum\\grpcgreeter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USERMASTER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\GET IT RENT\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

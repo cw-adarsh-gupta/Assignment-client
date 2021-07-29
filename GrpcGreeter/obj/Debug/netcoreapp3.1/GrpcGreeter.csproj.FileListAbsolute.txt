@@ -26,3 +26,31 @@ C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeter\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.dll
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.pdb
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.genruntimeconfig.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.exe
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.deps.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.runtimeconfig.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.runtimeconfig.dev.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.pdb
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csprojAssemblyReference.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.AssemblyInfoInputs.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.AssemblyInfo.cs
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csproj.CoreCompileInputs.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.RazorTargetAssemblyInfo.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csproj.CopyComplete
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeter.StaticWebAssets.Manifest.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeter.StaticWebAssets.xml
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.pdb
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.genruntimeconfig.cache

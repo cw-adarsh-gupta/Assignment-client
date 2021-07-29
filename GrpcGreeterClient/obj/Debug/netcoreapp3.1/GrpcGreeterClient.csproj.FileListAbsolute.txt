@@ -36,3 +36,22 @@ C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeterClient\obj\Debug\netcoreapp3.1\Grp
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
 C:\Users\USERMASTER\Desktop\AddNum\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.genruntimeconfig.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CoreCompileInputs.cache
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+C:\Users\GET IT RENT\Desktop\AddNum\grpcgreeterclient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.genruntimeconfig.cache
